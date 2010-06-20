@@ -1,5 +1,5 @@
 ActiveAmida
 
-to work the script
+to check the script,
 
 $ ruby amida.rb input.yml
